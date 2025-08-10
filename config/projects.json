@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ml-house-prices",
+    "title": "House Price Prediction",
+    "description": "Machine learning model to predict house prices using regression algorithms and feature engineering techniques.",
+    "category": "Machine Learning",
+    "tags": ["Python", "Scikit-learn", "Pandas", "Regression"],
+    "image": "/images/projects/house-prices.jpg",
+    "github": "https://github.com/yourusername/house-price-prediction",
+    "notebook": "https://github.com/yourusername/house-price-prediction/blob/main/analysis.ipynb",
+    "featured": true,
+    "date": "2024-01-15",
+    "slug": "house-price-prediction"
+  },
+  {
+    "id": "nlp-sentiment",
+    "title": "Social Media Sentiment Analysis",
+    "description": "Deep learning approach to analyze sentiment in social media posts using transformers and BERT.",
+    "category": "NLP",
+    "tags": ["Python", "PyTorch", "Transformers", "BERT", "NLP"],
+    "image": "/images/projects/sentiment-analysis.jpg",
+    "github": "https://github.com/yourusername/sentiment-analysis",
+    "demo": "https://sentiment-demo.vercel.app",
+    "featured": true,
+    "date": "2024-02-20",
+    "slug": "sentiment-analysis"
+  },
+  {
+    "id": "covid-dashboard",
+    "title": "COVID-19 Data Dashboard",
+    "description": "Interactive dashboard visualizing COVID-19 trends and statistics using real-time data APIs.",
+    "category": "Data Visualization",
+    "tags": ["Python", "Streamlit", "Plotly", "APIs", "Dashboard"],
+    "image": "/images/projects/covid-dashboard.jpg",
+    "github": "https://github.com/yourusername/covid-dashboard",
+    "demo": "https://covid-dashboard-demo.streamlit.app",
+    "featured": false,
+    "date": "2023-12-10",
+    "slug": "covid-dashboard"
+  }
+]
